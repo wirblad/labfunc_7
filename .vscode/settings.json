@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Henrik\\source\\c\\labfunc_7",
+            "binaryPath": "c:\\Users\\Henrik\\source\\c\\labfunc_7\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
